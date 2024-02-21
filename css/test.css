@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 30px;
+    color: black;
+}
+h2{
+    font-size: 20px;
+    color: blue;
+}
+.big{
+font-size: 100px;
+}
+.uppercase{
+text-transform: capitalize;
+}
+.big.uppercase{
+color: gold;
+font-size: 200px;
+text-transform: capitalize;
+}
